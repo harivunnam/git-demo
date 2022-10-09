@@ -1,0 +1,6 @@
+git clone
+create a new branch and switch
+make and add your changes
+commit
+push
+merge
